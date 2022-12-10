@@ -1,6 +1,9 @@
 ## foodelivery
 A food ordering monolith in Go
 
+## DB Schema
+![Db schema of application](./foodelivery.png)
+
 ## API Documentation
 
 1. /api/v1/auth
